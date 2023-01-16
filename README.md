@@ -7,6 +7,11 @@
 - 🙇 **Fun fact: I have minimal experience in almost all areas of IT programming (even android reversing!)**
 - 📫 How to reach me **vovabyar@gmail.com**
 
+`Сreator` of `one of the largest` (2000+ people in the [group](https://vk.com/old_tanks_online)
+ (~600 online was maximum in the game)) `fan-projects` of the popular Russian client-server 3D game "Tanki Online". `The main developer` of this [project](https://github.com/vovabyar/TanksSource).
+ 
+![](https://github.com/vovabyar/vovabyar/blob/main/10.png)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vovabyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vovabyar" height="30" width="40" /></a>
