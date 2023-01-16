@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vladimir Berinchik!</h1>
 <h3 align="center">A passionate junior developer from Belarus</h3>
 
-- 🔭 I’m currently working on my Final Project(Industrial Programming) [Calculator](https://github.com/vovabyar/FinalProject)
-
+- 🔭 I’m currently working on my Final Project (Industrial Programming) [Calculator](https://github.com/vovabyar/FinalProject).
+- 🧐 **In the near future, I want to enroll in the Yandex data analysis school.**
+- 📫 I’m want to study Data Science and Machine Learning in a serious level!
+- 🙇 **Fun fact: I have minimal experience in almost all areas of IT programming (even android reversing!)**
 - 📫 How to reach me **vovabyar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
