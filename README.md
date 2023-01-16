@@ -8,7 +8,7 @@
 - 📫 How to reach me **vovabyar@gmail.com**
 
 `Сreator` of `one of the largest` (2000+ people in the [group](https://vk.com/old_tanks_online)
- (~600 online was maximum in the game)) `fan-projects` of the popular Russian client-server 3D game "Tanki Online". `The main developer` of this [project](https://github.com/vovabyar/TanksSource).
+ (~600 online was maximum in the game)) `fan-projects` of the popular Russian client-server 3D game "Tanki Online". `The main developer` of this [project](https://github.com/vovabyar/TanksSource) (project abandoned 👎).
  
 ![](https://github.com/vovabyar/vovabyar/blob/main/10.png)
 
