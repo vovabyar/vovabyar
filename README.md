@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vladimir Berinchik!</h1>
 <h3 align="center">A passionate junior developer from Belarus</h3>
 
-- 🔭 I’m currently working on my Final Project (Industrial Programming) [Calculator](https://github.com/vovabyar/FinalProject).
-- 🧐 I’m want to study Data Science and Machine Learning in a serious level!
+- 🔭 I'm currently enhancing my skills in backend development.
 - 🙇 **Fun fact: I have minimal experience in almost all areas of IT programming (even android reversing!)**
 - 📫 How to reach me **vovabyar@gmail.com**
 
-`Сreator` of `one of the largest` (5000+ accounts have been registered)
- (~600 online was maximum in the game)) `fan-projects` of the popular client-server 3D game about tanks. `The main developer` of this [project](https://github.com/vovabyar/TanksSource) (project abandoned 👎).
- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vovabyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vovabyar" height="30" width="40" /></a>
